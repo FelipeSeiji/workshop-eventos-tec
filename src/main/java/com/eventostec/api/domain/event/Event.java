@@ -27,9 +27,9 @@ public class Event {
 
     private String title;
     private String description;
-    private String imgIrl;
+    private String imgUrl;
     private String eventUrl;
-    private Boolean reemote;
+    private Boolean remote;
     private Date date;
 
 }
